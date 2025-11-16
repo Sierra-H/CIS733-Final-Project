@@ -10,3 +10,20 @@ Contributors:
 
 ---
 
+# [Artifacts](Artifacts)
+
+*[readme](Artifacts/artifacts_README.md)*
+
+Contains written Latex file along with other documentation artifacts and graphics.
+
+# [Code](Code)
+
+*[readme](Code/code_README.md)*
+
+Analysis code for the project.
+
+# [Data](Data)
+
+*[readme](Data/data_README.md)*
+
+The data analyzed for the project.

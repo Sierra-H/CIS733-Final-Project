@@ -1,0 +1,146 @@
+
+\documentclass[article,pdftex,10pt,a4paper,twocolumn]{article}
+\usepackage[authoryear]{natbib}
+\usepackage{graphics}
+
+\usepackage{url}\urlstyle{rm}
+\usepackage{epstopdf}
+\usepackage{graphicx}
+
+
+\RequirePackage{color}
+\def\imagei{\centerline{\color[gray]{.75}\rule{\hsize}{4pc}}}%
+\def\imageii{\centerline{\color[gray]{.75}\rule{4pc}{4pc}}}%
+
+
+
+
+
+\begin{document}
+
+
+\title{The paper needs to have a title}
+
+\author{Author1, Author2, Author3, \\ \small Kansas State University, Manhattan, KS 66502 \\ \small author1@ksu.edu, author2@ksu.edu, author3@ksu.edu}
+
+
+\maketitle
+
+\begin{abstract}
+The abstract is a single paragraph of 150-300 words, which summarizes your project, and can be read independently of the rest of the paper. The abstract should define the goals of the research project, the methods (very briefly) and then the results and conclusions. 
+\end{abstract}
+
+
+\section{Introduction}
+\label{introduction}
+
+The introduction section should include the following: \newline
+a. Description of the problem or scientific question that is being addressed, and an explanation of why it is important to solve it. \newline
+b. A summary of previous work that was done in the field. This should include references to papers published previously that describe solutions to the same or similar problems. These papers should also be listed in the References section.
+
+References should be used with the APA format. That can be done easily by using Bibtex with the apalike bibliography style. A reference to a bibliographic source in the text can be done using \cite{ozsvath2001approaches} or \citep{ellis1979homogeneity}. 
+
+If the name of the author of the paper is part of the sentence, the reference should be: \cite{ozsvath2001approaches} proposed a different cosmological model based on a rotating universe. 
+
+If the name of the author is not part of the sentence, the reference should be. In addition to the standard cosmological models, alternative cosmological models were proposed \citep{ozsvath2001approaches}.
+
+A reference to more than one source can be done by \citep{ozsvath1962finite,godel1949example}.
+
+The introduction section is a mandatory section that all papers must include. The rest of the paper can include different sections, but the following format is normally effective for data science papers.
+
+
+
+
+
+\section{Data}
+\label{data}
+
+In this section you need to describe your data. The description should include the following: \newline
+a. The source of the data, including references when relevant. If the data was collected through an automatic or manual process of data collection that part should also be described. \newline
+b. The size of the data. \newline
+c. Basic description of the data. The description includes classes, distribution of the data by the different classes or by other measurements. The description should include graphs that visualize the distribution of the data, giving the reader more information about the nature of your initial data.\newline
+d. Description of the process of preparing the data for processing. \newline
+
+Your data section should include tables and/or figures. A simple table can be formatted as follows:
+
+
+\begin{table}
+{
+%\footnotesize
+\scriptsize
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+Column 1 &  Column 2    &  Column 3  & Column 4 & Column 5 \\      
+\hline
+0   &    9,655   &   64,092  &  10,862     &    84,609    \\
+0.05 &   14,746  &  104,339   & 21,098   &   140,183    \\
+0.1 &    12,142  &  67,712  &  13,797   &    93,651    \\   
+0.15  &  7,757    & 33,957  &  8,360     &     50,074    \\
+$>$0.2  &  47,456    & 134,706    & 36,473    &   218,635    \\
+\hline
+Total      &  91,965 &  406,185  & 90,899   & 589,049  \\
+\hline        
+\end{tabular}
+\caption{Each table must have a caption.} 
+\label{table_label}
+}
+\end{table}
+
+
+A simple figure can be formatted using the following syntax. You can use several image formats such as eps or jpeg, but pdf is preferred.
+
+\begin{figure*}[h]
+\includegraphics[scale=1.0]{figure_file.pdf}
+\caption{Each figure must have a caption}
+\label{figure_label}
+\end{figure*}
+
+
+
+Each table and each figure must also be referenced from the text. For instance, Table~\ref{table_label} shows the data ......
+ 
+
+\section{Methods}
+\label{methods}
+
+This section should describe in details the methods that you developed and/or used. A method can be a certain existing software tool that you used, an equation, an algorithm, etc’.  If you used existing methods, a reference to the papers that describe the methods is required.
+
+
+
+\section{Results}
+\label{results}
+
+
+
+In this section you present the results of your research, which can be the performance of your methods or the findings of your research. You can describe your results in words, but should also use tables and figures when needed. Please discuss each graph or table in detail, and explain how they are produced and what can be learned from them. Make sure that each statement that you make is supported by the data.
+
+
+\section{Conclusion}
+\label{conclusion}
+
+
+This section is the analysis of the results presented in the Results section, and should describe the conclusion of your work. It should describe the meaning of the results, the advantages of your work compared to existing knowledge, and information that we can learn from the results.
+
+It should also discuss the weaknesses of the analysis, and things we cannot conclude from our results. You can also use the Conclusion section to discuss potential uses of the work, and ideas for future work.
+
+
+
+
+
+\section*{Acknowledgments}
+
+List here any person who assisted you in your work. Receiving help from others is basically allowed (and sometimes even encouraged) in this course, but please consult with me before asking for someone else’s help.
+
+
+\section*{Author contribution}
+
+Briefly describe the contribution of each author to the preparation of the data, design of the experiments, analysis of the results, and the writing of the paper.
+
+\bibliographystyle{apalike}
+
+\bibliography{main}
+
+\end{document}
+
+
+
