@@ -5,7 +5,7 @@ CIS733 Data Science Foundations Final Project Fall 2025
 
 Contributors:
 
-- [Saloni Parkash]()
+- [Saloni Parkash](https://github.com/nupurkastuar-eng)
 - [Sierra Hawbaker](https://github.com/Sierra-H)
 
 ---
