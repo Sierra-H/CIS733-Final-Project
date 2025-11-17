@@ -1,0 +1,13 @@
+
+Included is a schematic that details the structure of the prepay.  The amounts including in the structure include the following items:
+
+The Nymex Mid for Jan. '02 contract was priced as of close today (6/27/01)
+The assumption that the deal began on 6/28/01 and settled on 12/27/01
+The assumption that six-month libor rate plus spread would be used for the interest component
+
+Please let me know if you have any questions or other comments.  Thanks again for your help.
+
+Michael
+713-853-1864
+
+ 

@@ -1,0 +1,8 @@
+Daren:
+There is a spot deal and an exchange deal for 9/6.  The spot deal is 391119 
+and the exchange deal is 231758.  They both have the same volume scheduled, 
+10,545 MMBtu.  Which deal do we use?  Duke shows the volume on the exchange 
+deal.  There is also spot deal 387571 for day 6, but I think it's OK.  The 
+deal was for 30,000 MMBtu and we have an actual of 29,420 MMBtu
+
+Megan

@@ -1,0 +1,3 @@
+Please click on the URL below for Enron's 2001 Holiday Schedule.
+
+http://home.enron.com:84/messaging/2001sched.jpg

@@ -1,0 +1,7 @@
+
+
+Start Date: 1/29/02; HourAhead hour: 2;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012902.txt

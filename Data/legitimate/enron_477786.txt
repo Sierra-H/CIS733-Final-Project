@@ -1,0 +1,9 @@
+PNR thus far in the new year.....
+
+
+
+Buyer		PO#	POI		P/R	 Dekatherm 	 Rate/Dth 	Type 		Invoice Amount 
+PNM		27267	500617		R	49,000 	 	$0.0800 	 Total	 	$3,920.00 
+Calpine 		27507	78151	 	P	10,000 	 	$0.3883  	 Daily	 	$7,766.00 
+								
+TOTALS					59,000 						$11,686.00 

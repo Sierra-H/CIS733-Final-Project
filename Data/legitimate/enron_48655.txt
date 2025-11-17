@@ -1,0 +1,11 @@
+I have placed the new version of the model on O:\_Dropbox\modelgriffith3.xls
+
+The second function works off the "Skew4" tab, and the name of the function 
+is "calcskew2"
+The inputs to the calcskew2 function are the same, except for "a" and "b", 
+which are now
+"anew" and "bnew".
+
+Regards,
+
+Hector

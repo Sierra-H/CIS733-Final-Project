@@ -1,0 +1,7 @@
+Start Date: 4/20/01; HourAhead hour: 13;  No ancillary schedules awarded.  No 
+variances detected.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001042013.txt

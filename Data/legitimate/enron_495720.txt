@@ -1,0 +1,26 @@
+The following server will be coming down, please see below for more details 
+and scheduled times :
+
+
+-------------------------------------------------------------
+
+          SYSTEM OUTAGE NOTIFICATION      
+
+-------------------------------------------------------------
+
+FOR:  PR2 - HR Production
+
+
+Outage Start: (CST) 4/8/2001 at 09:00:00 AM
+
+Outage End: (CST) 4/8/2001 at 03:00:00 PM
+
+Outage Abstract:  System Maintenance
+
+Outage Description: Replace faulty hard-drive
+
+Outage Implication: System will be down for duration of outage
+
+Contact Name:Larry Harbuck   #:  1-877-498-3378
+
+

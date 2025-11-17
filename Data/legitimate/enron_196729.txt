@@ -1,0 +1,11 @@
+CALENDAR ENTRY:	APPOINTMENT
+
+Description:
+	Larry Berger/Monthly Acct. Mtg. Conference room EB4194
+
+Date:		11/26/2001
+Time:		1:30 PM - 3:00 PM (Central Standard Time)
+
+Chairperson:	Outlook Migration Team
+
+Detailed Description:
