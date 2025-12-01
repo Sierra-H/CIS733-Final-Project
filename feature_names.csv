@@ -1,0 +1,59 @@
+Feature
+Word diversity
+FFT mean
+FFT median
+FFT stddev
+FFT min
+FFT max
+FFT histogram bin 1
+FFT histogram bin 2
+FFT histogram bin 3
+FFT histogram bin 4
+FFT histogram bin 5
+Word length mean
+Words of length 1
+Words of length 2
+Words of length 3
+Words of length 4
+Words of length 5
+Words of length 6
+Words of length 7
+Words of length 8
+Words of length 9
+Words of length 10
+Words of length 11
+Words of length 12
+Words of length 13
+Words of length 14
+Words of length 15
+Words of length 16
+Word homogenity mean
+Word homogenity StdDev
+Word homogenity maximum
+Word homoganity hist bin 0
+Word homoganity hist bin 1
+Word homoganity hist bin 2
+Word homoganity hist bin 3
+Word homoganity hist bin 4
+Word homoganity hist bin 5
+Word homoganity hist bin 6
+Word homoganity hist bin 7
+Punctuation characters ratio
+"Frequency of ""."""
+"Frequency of "","""
+"Frequency of ""-"""
+"Frequency of ""'"""
+"Frequency of ""+"""
+"Frequency of ""\"""
+"Frequency of ""/"""
+"Frequency of ""!"""
+"Frequency of ""?"""
+"Frequency of ""("""
+"Frequency of ""="""
+"Frequency of ""*"""
+"Frequency of ""&"""
+"Frequency of ""{"""
+"Frequency of ""["""
+"Frequency of "";"""
+"Frequency of "":"""
+Use of upper case
