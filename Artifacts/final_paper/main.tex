@@ -27,7 +27,7 @@
 \maketitle
 
 \begin{abstract}
-The abstract is a single paragraph of 150-300 words, which summarizes your project, and can be read independently of the rest of the paper. The abstract should define the goals of the research project, the methods (very briefly) and then the results and conclusions. 
+With this project we have tried to recognize the pattern of emails belonging to phishing and legitimate. It was surprising for us that the language of both types of emails was almost the same, yet there is a different pattern that can be traced with minute observations.  We have, with our project, tried to trace those patterns. So, the goal here is to trace the patterns of both types of emails - what kind of words make these emails really different. We have also tried to discuss the outliers - and with that  method we have tried to detect the novelty with both types of emails. We hope that with this project we can raise the flags to recognize  the phishing emails by the language and pattern.
 \end{abstract}
 
 
@@ -48,7 +48,15 @@ The abstract is a single paragraph of 150-300 words, which summarizes your proje
 
 %The introduction section is a mandatory section that all papers must include. The rest of the paper can include different sections, but the following format is normally effective for data science papers.
 
-Phishing emails are a malicious and a common attack vector for actors looking to gain access and information to systems. These types of attacks are effective because they mimic the communication a target commonly interacts with.\newline Whether the attacker impersonates a higher up, masquerades as a government body, or claims to be an urgent opportunity, the attacker relies on deception. By its nature, deception seeks to remain unnoticed.\newline Unveiling this deception is a boon because it undermines the key tool these types of attacks use to dupe targets. If the delineation between phishing emails and regular emails is defined, they can be filtered from view of potential targets. If a target does not see a phishing email, they are much less likely to become victim to the attack.\newline Phishing emails target human user, as such, they are built to fool human observers. The advantage of a machine learning approach is that it does not rely on human intuition. A machine learning approach may be able to uncover distinctions between the types of emails that are not readily apparent to the either the target of an attack, or the human researcher.
+Phishing emails are a malicious and a common attack vector for actors looking to gain access and information to systems. These types of attacks are effective because they mimic the communication a target commonly interacts with.
+
+Whether the attacker impersonates a higher up, masquerades as a government body, or claims to be an urgent opportunity, the attacker relies on deception. By its nature, deception seeks to remain unnoticed.
+
+Unveiling this deception is a boon because it undermines the key tool these types of attacks use to dupe targets. If the delineation between phishing emails and regular emails is defined, they can be filtered from view of potential targets. If a target does not see a phishing email, they are much less likely to become a victim to the attack.
+
+Phishing emails target human users, as such, they are built to fool human observers. The advantage of a machine learning approach is that it does not rely on human intuition. A machine learning approach may be able to uncover distinctions between the types of emails that are not readily apparent to the either the target of an attack, or the human researcher.
+
+Phishing detection has been an area of interest for researchers in the past. However, since cybersecurity attacks are cat and mouse games between researchers and attackers, there is always room to improve. Beyond prediction, our goal is to recognize similarities and differences between legitimate and phishing emails.
 
 %TODO Background papers needed.
 
@@ -59,50 +67,59 @@ Phishing emails are a malicious and a common attack vector for actors looking to
 \section{Data}
 \label{data}
 
-In this section you need to describe your data. The description should include the following: \newline
-a. The source of the data, including references when relevant. If the data was collected through an automatic or manual process of data collection that part should also be described. \newline
-b. The size of the data. \newline
-c. Basic description of the data. The description includes classes, distribution of the data by the different classes or by other measurements. The description should include graphs that visualize the distribution of the data, giving the reader more information about the nature of your initial data.\newline
-d. Description of the process of preparing the data for processing. \newline
+%In this section you need to describe your data. The description should include the following: \newline
+%a. The source of the data, including references when relevant. If the data was collected through an automatic or manual process of data collection that part should also be described. \newline
+%b. The size of the data. \newline
+%c. Basic description of the data. The description includes classes, distribution of the data by the different classes or by other measurements. The description should include graphs that visualize the distribution of the data, giving the reader more information about the nature of your initial data.\newline
+%d. Description of the process of preparing the data for processing. \newline
 
-Your data section should include tables and/or figures. A simple table can be formatted as follows:
-
-
-\begin{table}
-{
-%\footnotesize
-\scriptsize
-\begin{tabular}{|l|c|c|c|c|}
-\hline
-Column 1 &  Column 2    &  Column 3  & Column 4 & Column 5 \\      
-\hline
-0   &    9,655   &   64,092  &  10,862     &    84,609    \\
-0.05 &   14,746  &  104,339   & 21,098   &   140,183    \\
-0.1 &    12,142  &  67,712  &  13,797   &    93,651    \\   
-0.15  &  7,757    & 33,957  &  8,360     &     50,074    \\
-$>$0.2  &  47,456    & 134,706    & 36,473    &   218,635    \\
-\hline
-Total      &  91,965 &  406,185  & 90,899   & 589,049  \\
-\hline        
-\end{tabular}
-\caption{Each table must have a caption.} 
-\label{table_label}
-}
-\end{table}
+%Your data section should include tables and/or figures. A simple table can be formatted as follows:
 
 
-A simple figure can be formatted using the following syntax. You can use several image formats such as eps or jpeg, but pdf is preferred.
+%\begin{table}
+%{
+%%\footnotesize
+%\scriptsize
+%\begin{tabular}{|l|c|c|c|c|}
+%\hline
+%Column 1 &  Column 2    &  Column 3  & Column 4 & Column 5 \\
+%\hline
+%0   &    9,655   &   64,092  &  10,862     &    84,609    \\
+%0.05 &   14,746  &  104,339   & 21,098   &   140,183    \\
+%0.1 &    12,142  &  67,712  &  13,797   &    93,651    \\
+%0.15  &  7,757    & 33,957  &  8,360     &     50,074    \\
+%$>$0.2  &  47,456    & 134,706    & 36,473    &   218,635    \\
+%\hline
+%Total      &  91,965 &  406,185  & 90,899   & 589,049  \\
+%\hline
+%\end{tabular}
+%\caption{Each table must have a caption.}
+%\label{table_label}
+%}
+%\end{table}
 
-\begin{figure*}[h]
-\includegraphics[scale=1.0]{figure_file.pdf}
-\caption{Each figure must have a caption}
-\label{figure_label}
-\end{figure*}
+
+%A simple figure can be formatted using the following syntax. You can use several image formats such as eps or jpeg, but pdf is preferred.
+
+%\begin{figure*}[h]
+%\includegraphics[scale=1.0]{figure_file.pdf}
+%\caption{Each figure must have a caption}
+%\label{figure_label}
+%\end{figure*}
 
 
 
-Each table and each figure must also be referenced from the text. For instance, Table~\ref{table_label} shows the data ......
+%Each table and each figure must also be referenced from the text. For instance, Table~\ref{table_label} shows the data ......
  
+Our sources, recommended by Dr. Shamir, contained both phishing and legitimate emails. Our data came from three sources, the Enron dataset of corporate emails and the Ling dataset of emails were both sources of legitimate emails. Together, these datasets contained over five-hundred thousand emails. The third dataset, a set of emails generated by artificial intelligence and provided by Dr. Shamir, contained phishing emails. This data set contained 865 phishing emails.
+
+The distribution of legitimate emails to phishing emails was unbalanced. The over representation of legitimate emails in the dataset motivated us to take a random sample of the two sources of legitimate emails and use that subset of the legitimate email data. one-thousand entries from each source were randomly sampled in order to create this subset of the legitimate email data.
+
+This meant that the final dataset contained 2000 legitimate emails, and 865 phishing emails.
+
+Once the data was sampled, the data then needed to be vectorized using udat. This vectorization then needed to be cleaned in order to remove NaN values that are disallowed in feature selection and outlier detection tools. These NaN values were replaced with the value 0. When required, the data was standardized for analysis. The following is the distribution of our data:
+
+\includegraphics[scale=0.2]{data_1}
 
 \section{Methods}
 \label{methods}
