@@ -1,0 +1,485 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.21)  14 DEC 2025 10:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count270
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box52
+)
+
+LaTeX Warning: Unused global option(s):
+    [article].
+
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen144
+\scratchbox=\box53
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen145
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks19
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+
+
+
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+<imgs/data_1.png, id=11, 1094.0875pt x 1009.7725pt>
+File: imgs/data_1.png Graphic file (type png)
+<use imgs/data_1.png>
+Package pdftex.def Info: imgs/data_1.png  used on input line 130.
+(pdftex.def)             Requested size: 218.81361pt x 201.95091pt.
+
+Overfull \hbox (7.81363pt too wide) in paragraph at lines 130--131
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[2 <./imgs/data_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\OT1/cmr/bx/n/10 Model Ro-bust-ness and Cross-
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 154--155
+\OT1/cmr/m/n/10 To en-sure re-li-a-bil-ity, 5-fold strat-i-fied cross-
+ []
+
+
+
+
+
+[3]
+Underfull \vbox (badness 3128) has occurred while \output is active []
+
+
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 219--220
+\OT1/cmr/m/n/10 Ensemble and tree-based clas-si-fiers (Ad-aBoost,
+ []
+
+
+
+[4]
+<imgs/ClassificationAlgorithms.png, id=24, 1132.23pt x 540.0175pt>
+File: imgs/ClassificationAlgorithms.png Graphic file (type png)
+<use imgs/ClassificationAlgorithms.png>
+Package pdftex.def Info: imgs/ClassificationAlgorithms.png  used on input line 
+221.
+(pdftex.def)             Requested size: 203.7926pt x 97.19894pt.
+<imgs/BoxPlots.png, id=25, 1132.23pt x 603.25375pt>
+File: imgs/BoxPlots.png Graphic file (type png)
+<use imgs/BoxPlots.png>
+Package pdftex.def Info: imgs/BoxPlots.png  used on input line 231.
+(pdftex.def)             Requested size: 215.12593pt x 114.6194pt.
+
+Overfull \hbox (4.12595pt too wide) in paragraph at lines 231--232
+[][] 
+ []
+
+
+Underfull \vbox (badness 4217) has occurred while \output is active []
+
+
+
+<imgs/ErrorBar.png, id=26, 891.33pt x 601.24625pt>
+File: imgs/ErrorBar.png Graphic file (type png)
+<use imgs/ErrorBar.png>
+Package pdftex.def Info: imgs/ErrorBar.png  used on input line 237.
+(pdftex.def)             Requested size: 222.83195pt x 150.31119pt.
+
+Overfull \hbox (11.83197pt too wide) in paragraph at lines 237--238
+[][] 
+ []
+
+
+
+[5 <./imgs/ClassificationAlgorithms.png> <./imgs/BoxPlots.png> <./imgs/ErrorBar
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+[]\OT1/cmr/bx/n/10 Formatting and Punc-tu-a-tion Cues\OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 247--248
+\OT1/cmr/m/n/10 us-age and con-sis-tent for-mat-ting, whereas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+\OT1/cmr/m/n/10 le-git-i-mate emails con-tain more vari-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+[]\OT1/cmr/bx/n/10 Positive as-so-ci-a-tion with phish-ing\OT1/cmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 259--260
+[]\OT1/cmr/bx/n/10 Positive as-so-ci-a-tion with le-git-i-mate
+ []
+
+<imgs/EmailsLengthAnalysis.png, id=34, 735.74875pt x 440.64626pt>
+File: imgs/EmailsLengthAnalysis.png Graphic file (type png)
+<use imgs/EmailsLengthAnalysis.png>
+Package pdftex.def Info: imgs/EmailsLengthAnalysis.png  used on input line 271.
+
+(pdftex.def)             Requested size: 183.93674pt x 110.16129pt.
+
+
+<imgs/svm_lm_no.png, id=35, 455.45157pt x 255.95625pt>
+File: imgs/svm_lm_no.png Graphic file (type png)
+<use imgs/svm_lm_no.png>
+Package pdftex.def Info: imgs/svm_lm_no.png  used on input line 287.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 287--288
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[6 <./imgs/EmailsLengthAnalysis.png>]
+<imgs/svm_lm_o.png, id=40, 455.45157pt x 255.95625pt>
+File: imgs/svm_lm_o.png Graphic file (type png)
+<use imgs/svm_lm_o.png>
+Package pdftex.def Info: imgs/svm_lm_o.png  used on input line 293.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 293--294
+[][] 
+ []
+
+<imgs/svm_lm_noao.png, id=41, 455.45157pt x 255.95625pt>
+File: imgs/svm_lm_noao.png Graphic file (type png)
+<use imgs/svm_lm_noao.png>
+Package pdftex.def Info: imgs/svm_lm_noao.png  used on input line 299.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 299--300
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+<imgs/svm_pm_no.png, id=42, 455.45157pt x 255.95625pt>
+File: imgs/svm_pm_no.png Graphic file (type png)
+<use imgs/svm_pm_no.png>
+Package pdftex.def Info: imgs/svm_pm_no.png  used on input line 309.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 309--310
+[][] 
+ []
+
+<imgs/svm_pm_o.png, id=43, 455.45157pt x 255.95625pt>
+File: imgs/svm_pm_o.png Graphic file (type png)
+<use imgs/svm_pm_o.png>
+Package pdftex.def Info: imgs/svm_pm_o.png  used on input line 315.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 315--316
+[][] 
+ []
+
+
+
+[7 <./imgs/svm_lm_no.png> <./imgs/svm_lm_o.png> <./imgs/svm_lm_noao.png> <./img
+s/svm_pm_no.png>]
+<imgs/svm_pm_noao.png, id=52, 455.45157pt x 255.95625pt>
+File: imgs/svm_pm_noao.png Graphic file (type png)
+<use imgs/svm_pm_noao.png>
+Package pdftex.def Info: imgs/svm_pm_noao.png  used on input line 321.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 321--322
+[][] 
+ []
+
+<imgs/lof_lm_no.png, id=53, 455.45157pt x 255.95625pt>
+File: imgs/lof_lm_no.png Graphic file (type png)
+<use imgs/lof_lm_no.png>
+Package pdftex.def Info: imgs/lof_lm_no.png  used on input line 329.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 329--330
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+<imgs/lof_lm_o.png, id=54, 455.45157pt x 255.95625pt>
+File: imgs/lof_lm_o.png Graphic file (type png)
+<use imgs/lof_lm_o.png>
+Package pdftex.def Info: imgs/lof_lm_o.png  used on input line 333.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 333--334
+[][] 
+ []
+
+<imgs/lof_lm_noao.png, id=55, 455.45157pt x 255.95625pt>
+File: imgs/lof_lm_noao.png Graphic file (type png)
+<use imgs/lof_lm_noao.png>
+Package pdftex.def Info: imgs/lof_lm_noao.png  used on input line 337.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 337--338
+[][] 
+ []
+
+
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+
+
+[8 <./imgs/svm_pm_o.png> <./imgs/svm_pm_noao.png> <./imgs/lof_lm_no.png> <./img
+s/lof_lm_o.png> <./imgs/lof_lm_noao.png>]
+<imgs/lof_pm_no.png, id=64, 455.45157pt x 255.95625pt>
+File: imgs/lof_pm_no.png Graphic file (type png)
+<use imgs/lof_pm_no.png>
+Package pdftex.def Info: imgs/lof_pm_no.png  used on input line 345.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 345--346
+[][] 
+ []
+
+<imgs/lof_pm_o.png, id=65, 455.45157pt x 255.95625pt>
+File: imgs/lof_pm_o.png Graphic file (type png)
+<use imgs/lof_pm_o.png>
+Package pdftex.def Info: imgs/lof_pm_o.png  used on input line 349.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 349--350
+[][] 
+ []
+
+<imgs/lof_pm_noao.png, id=66, 455.45157pt x 255.95625pt>
+File: imgs/lof_pm_noao.png Graphic file (type png)
+<use imgs/lof_pm_noao.png>
+Package pdftex.def Info: imgs/lof_pm_noao.png  used on input line 353.
+(pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
+
+Overfull \hbox (3.06227pt too wide) in paragraph at lines 353--354
+[][] 
+ []
+
+
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 361--362
+[]\OT1/cmr/m/n/10 One Class Sup-port Vec-tor Ma-chine (0.04
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 363.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 364.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 364.
+
+Overfull \hbox (43.69502pt too wide) in paragraph at lines 364--369
+[][] 
+ []
+
+
+
+[9 <./imgs/lof_pm_no.png> <./imgs/lof_pm_o.png> <./imgs/lof_pm_noao.png>]
+(./main.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+)
+
+
+
+[10
+
+] (./main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2627 strings out of 475171
+ 44110 string characters out of 5767094
+ 433628 words of memory out of 5000000
+ 25605 multiletter control sequences out of 15000+600000
+ 563726 words of font info for 52 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 56i,9n,65p,833b,269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/sashamane/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
+pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on main.pdf (10 pages, 1843309 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
