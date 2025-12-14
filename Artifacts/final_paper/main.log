@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.21)  14 DEC 2025 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.21)  14 DEC 2025 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -168,27 +168,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <imgs/data_1.png, id=11, 1094.0875pt x 1009.7725pt>
 File: imgs/data_1.png Graphic file (type png)
 <use imgs/data_1.png>
-Package pdftex.def Info: imgs/data_1.png  used on input line 130.
+Package pdftex.def Info: imgs/data_1.png  used on input line 125.
 (pdftex.def)             Requested size: 218.81361pt x 201.95091pt.
 
-Overfull \hbox (7.81363pt too wide) in paragraph at lines 130--131
-[][] 
- []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 
 
 [2 <./imgs/data_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []\OT1/cmr/bx/n/10 Model Ro-bust-ness and Cross-
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 154--155
+Underfull \hbox (badness 5431) in paragraph at lines 157--158
 \OT1/cmr/m/n/10 To en-sure re-li-a-bil-ity, 5-fold strat-i-fied cross-
  []
 
@@ -197,12 +193,9 @@ Underfull \hbox (badness 5431) in paragraph at lines 154--155
 
 
 [3]
-Underfull \vbox (badness 3128) has occurred while \output is active []
 
 
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 219--220
+Underfull \hbox (badness 1087) in paragraph at lines 229--230
 \OT1/cmr/m/n/10 Ensemble and tree-based clas-si-fiers (Ad-aBoost,
  []
 
@@ -213,30 +206,29 @@ Underfull \hbox (badness 1087) in paragraph at lines 219--220
 File: imgs/ClassificationAlgorithms.png Graphic file (type png)
 <use imgs/ClassificationAlgorithms.png>
 Package pdftex.def Info: imgs/ClassificationAlgorithms.png  used on input line 
-221.
+232.
 (pdftex.def)             Requested size: 203.7926pt x 97.19894pt.
 <imgs/BoxPlots.png, id=25, 1132.23pt x 603.25375pt>
 File: imgs/BoxPlots.png Graphic file (type png)
 <use imgs/BoxPlots.png>
-Package pdftex.def Info: imgs/BoxPlots.png  used on input line 231.
+Package pdftex.def Info: imgs/BoxPlots.png  used on input line 247.
 (pdftex.def)             Requested size: 215.12593pt x 114.6194pt.
 
-Overfull \hbox (4.12595pt too wide) in paragraph at lines 231--232
-[][] 
- []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \vbox (badness 4217) has occurred while \output is active []
+Underfull \vbox (badness 1019) has occurred while \output is active []
 
 
 
 <imgs/ErrorBar.png, id=26, 891.33pt x 601.24625pt>
 File: imgs/ErrorBar.png Graphic file (type png)
 <use imgs/ErrorBar.png>
-Package pdftex.def Info: imgs/ErrorBar.png  used on input line 237.
+Package pdftex.def Info: imgs/ErrorBar.png  used on input line 258.
 (pdftex.def)             Requested size: 222.83195pt x 150.31119pt.
 
-Overfull \hbox (11.83197pt too wide) in paragraph at lines 237--238
+Overfull \hbox (1.83195pt too wide) in paragraph at lines 258--259
 [][] 
  []
 
@@ -244,217 +236,175 @@ Overfull \hbox (11.83197pt too wide) in paragraph at lines 237--238
 
 [5 <./imgs/ClassificationAlgorithms.png> <./imgs/BoxPlots.png> <./imgs/ErrorBar
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 []\OT1/cmr/bx/n/10 Formatting and Punc-tu-a-tion Cues\OT1/cmr/m/n/10 :
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 247--248
+Underfull \hbox (badness 2495) in paragraph at lines 272--273
 \OT1/cmr/m/n/10 us-age and con-sis-tent for-mat-ting, whereas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 \OT1/cmr/m/n/10 le-git-i-mate emails con-tain more vari-able
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 []\OT1/cmr/bx/n/10 Positive as-so-ci-a-tion with phish-ing\OT1/cmr/m/n/10 :
  []
 
 
-Underfull \hbox (badness 6396) in paragraph at lines 259--260
+Underfull \hbox (badness 6396) in paragraph at lines 285--286
 []\OT1/cmr/bx/n/10 Positive as-so-ci-a-tion with le-git-i-mate
  []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+97.
+(/usr/share/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 297.
+
 
 <imgs/EmailsLengthAnalysis.png, id=34, 735.74875pt x 440.64626pt>
 File: imgs/EmailsLengthAnalysis.png Graphic file (type png)
 <use imgs/EmailsLengthAnalysis.png>
-Package pdftex.def Info: imgs/EmailsLengthAnalysis.png  used on input line 271.
+Package pdftex.def Info: imgs/EmailsLengthAnalysis.png  used on input line 300.
 
-(pdftex.def)             Requested size: 183.93674pt x 110.16129pt.
+(pdftex.def)             Requested size: 257.51591pt x 154.22849pt.
 
+Overfull \hbox (36.51591pt too wide) in paragraph at lines 300--301
+[][] 
+ []
 
 <imgs/svm_lm_no.png, id=35, 455.45157pt x 255.95625pt>
 File: imgs/svm_lm_no.png Graphic file (type png)
 <use imgs/svm_lm_no.png>
-Package pdftex.def Info: imgs/svm_lm_no.png  used on input line 287.
+Package pdftex.def Info: imgs/svm_lm_no.png  used on input line 316.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 287--288
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 [6 <./imgs/EmailsLengthAnalysis.png>]
-<imgs/svm_lm_o.png, id=40, 455.45157pt x 255.95625pt>
+<imgs/svm_lm_o.png, id=41, 455.45157pt x 255.95625pt>
 File: imgs/svm_lm_o.png Graphic file (type png)
 <use imgs/svm_lm_o.png>
-Package pdftex.def Info: imgs/svm_lm_o.png  used on input line 293.
+Package pdftex.def Info: imgs/svm_lm_o.png  used on input line 327.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 293--294
-[][] 
- []
 
-<imgs/svm_lm_noao.png, id=41, 455.45157pt x 255.95625pt>
+<imgs/svm_lm_noao.png, id=42, 455.45157pt x 255.95625pt>
 File: imgs/svm_lm_noao.png Graphic file (type png)
 <use imgs/svm_lm_noao.png>
-Package pdftex.def Info: imgs/svm_lm_noao.png  used on input line 299.
+Package pdftex.def Info: imgs/svm_lm_noao.png  used on input line 337.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
-
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 299--300
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-<imgs/svm_pm_no.png, id=42, 455.45157pt x 255.95625pt>
+<imgs/svm_pm_no.png, id=43, 455.45157pt x 255.95625pt>
 File: imgs/svm_pm_no.png Graphic file (type png)
 <use imgs/svm_pm_no.png>
-Package pdftex.def Info: imgs/svm_pm_no.png  used on input line 309.
+Package pdftex.def Info: imgs/svm_pm_no.png  used on input line 352.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 309--310
-[][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imgs/svm_pm_o.png, id=43, 455.45157pt x 255.95625pt>
+
+
+[7 <./imgs/svm_lm_no.png> <./imgs/svm_lm_o.png> <./imgs/svm_lm_noao.png>]
+<imgs/svm_pm_o.png, id=51, 455.45157pt x 255.95625pt>
 File: imgs/svm_pm_o.png Graphic file (type png)
 <use imgs/svm_pm_o.png>
-Package pdftex.def Info: imgs/svm_pm_o.png  used on input line 315.
+Package pdftex.def Info: imgs/svm_pm_o.png  used on input line 363.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
-
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 315--316
-[][] 
- []
-
-
-
-[7 <./imgs/svm_lm_no.png> <./imgs/svm_lm_o.png> <./imgs/svm_lm_noao.png> <./img
-s/svm_pm_no.png>]
 <imgs/svm_pm_noao.png, id=52, 455.45157pt x 255.95625pt>
 File: imgs/svm_pm_noao.png Graphic file (type png)
 <use imgs/svm_pm_noao.png>
-Package pdftex.def Info: imgs/svm_pm_noao.png  used on input line 321.
+Package pdftex.def Info: imgs/svm_pm_noao.png  used on input line 373.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 321--322
-[][] 
- []
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 <imgs/lof_lm_no.png, id=53, 455.45157pt x 255.95625pt>
 File: imgs/lof_lm_no.png Graphic file (type png)
 <use imgs/lof_lm_no.png>
-Package pdftex.def Info: imgs/lof_lm_no.png  used on input line 329.
+Package pdftex.def Info: imgs/lof_lm_no.png  used on input line 387.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
-
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 329--330
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 <imgs/lof_lm_o.png, id=54, 455.45157pt x 255.95625pt>
 File: imgs/lof_lm_o.png Graphic file (type png)
 <use imgs/lof_lm_o.png>
-Package pdftex.def Info: imgs/lof_lm_o.png  used on input line 333.
+Package pdftex.def Info: imgs/lof_lm_o.png  used on input line 395.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 333--334
-[][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<imgs/lof_lm_noao.png, id=55, 455.45157pt x 255.95625pt>
+
+
+[8 <./imgs/svm_pm_no.png> <./imgs/svm_pm_o.png> <./imgs/svm_pm_noao.png> <./img
+s/lof_lm_no.png>]
+<imgs/lof_lm_noao.png, id=62, 455.45157pt x 255.95625pt>
 File: imgs/lof_lm_noao.png Graphic file (type png)
 <use imgs/lof_lm_noao.png>
-Package pdftex.def Info: imgs/lof_lm_noao.png  used on input line 337.
+Package pdftex.def Info: imgs/lof_lm_noao.png  used on input line 404.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
-
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 337--338
-[][] 
- []
-
-
-Underfull \vbox (badness 2809) has occurred while \output is active []
-
-
-
-[8 <./imgs/svm_pm_o.png> <./imgs/svm_pm_noao.png> <./imgs/lof_lm_no.png> <./img
-s/lof_lm_o.png> <./imgs/lof_lm_noao.png>]
-<imgs/lof_pm_no.png, id=64, 455.45157pt x 255.95625pt>
+<imgs/lof_pm_no.png, id=63, 455.45157pt x 255.95625pt>
 File: imgs/lof_pm_no.png Graphic file (type png)
 <use imgs/lof_pm_no.png>
-Package pdftex.def Info: imgs/lof_pm_no.png  used on input line 345.
+Package pdftex.def Info: imgs/lof_pm_no.png  used on input line 417.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 345--346
-[][] 
- []
 
-<imgs/lof_pm_o.png, id=65, 455.45157pt x 255.95625pt>
+<imgs/lof_pm_o.png, id=64, 455.45157pt x 255.95625pt>
 File: imgs/lof_pm_o.png Graphic file (type png)
 <use imgs/lof_pm_o.png>
-Package pdftex.def Info: imgs/lof_pm_o.png  used on input line 349.
+Package pdftex.def Info: imgs/lof_pm_o.png  used on input line 425.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
-
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 349--350
-[][] 
- []
-
-<imgs/lof_pm_noao.png, id=66, 455.45157pt x 255.95625pt>
+<imgs/lof_pm_noao.png, id=65, 455.45157pt x 255.95625pt>
 File: imgs/lof_pm_noao.png Graphic file (type png)
 <use imgs/lof_pm_noao.png>
-Package pdftex.def Info: imgs/lof_pm_noao.png  used on input line 353.
+Package pdftex.def Info: imgs/lof_pm_noao.png  used on input line 433.
 (pdftex.def)             Requested size: 214.06226pt x 120.29944pt.
 
-Overfull \hbox (3.06227pt too wide) in paragraph at lines 353--354
-[][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-
-Underfull \hbox (badness 5475) in paragraph at lines 361--362
-[]\OT1/cmr/m/n/10 One Class Sup-port Vec-tor Ma-chine (0.04
- []
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 363.
+[9 <./imgs/lof_lm_o.png> <./imgs/lof_lm_noao.png> <./imgs/lof_pm_no.png> <./img
+s/lof_pm_o.png>]
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 364.
+(Font)              <7> on input line 451.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 364.
+(Font)              <5> on input line 451.
 
-Overfull \hbox (43.69502pt too wide) in paragraph at lines 364--369
-[][] 
+Overfull \hbox (43.69502pt too wide) in paragraph at lines 451--458
+[][]
  []
 
 
+Overfull \hbox (43.69502pt too wide) in paragraph at lines 464--471
+[][]
+ []
 
-[9 <./imgs/lof_pm_no.png> <./imgs/lof_pm_o.png> <./imgs/lof_pm_noao.png>]
+
+Underfull \vbox (badness 3724) has occurred while \output is active []
+
+
+
+[10 <./imgs/lof_pm_noao.png>]
+
 (./main.bbl
 
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
-
-)
+[11])
 
 
 
-[10
+[12
 
 ] (./main.aux)
  ***********
@@ -463,23 +413,25 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2627 strings out of 475171
- 44110 string characters out of 5767094
- 433628 words of memory out of 5000000
- 25605 multiletter control sequences out of 15000+600000
- 563726 words of font info for 52 fonts, out of 8000000 for 9000
+ 2710 strings out of 475171
+ 45883 string characters out of 5767094
+ 435123 words of memory out of 5000000
+ 25684 multiletter control sequences out of 15000+600000
+ 564072 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  56i,9n,65p,833b,269s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/sashamane/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600
 pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (10 pages, 1843309 bytes).
+nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (12 pages, 1871818 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

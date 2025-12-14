@@ -2,47 +2,84 @@ This is BibTeX, Version 0.99d (TeX Live 2026/dev/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: apalike.bst
-I found no \citation commands---while reading file main.aux
 Database file #1: main.bib
-You've used 0 entries,
+Warning--entry type for "bhakta" isn't style-file defined
+--line 51 of file main.bib
+Warning--entry type for "cohen" isn't style-file defined
+--line 67 of file main.bib
+Warning--entry type for "sakkis" isn't style-file defined
+--line 83 of file main.bib
+Warning--entry type for "shamir" isn't style-file defined
+--line 99 of file main.bib
+Name 1 in "Abeer Alhuzali, Ahad Alloqmani, Manar Aljabri, and Fatemah Alharbi" has a comma at the end for entry alhuzali
+while executing---line 1023 of file apalike.bst
+Name 1 in "Abeer Alhuzali, Ahad Alloqmani, Manar Aljabri, and Fatemah Alharbi" has a comma at the end for entry alhuzali
+while executing---line 1023 of file apalike.bst
+Name 1 in "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" has a comma at the end for entry sakkis
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1023 of file apalike.bst
+Name 1 in "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" has a comma at the end for entry sakkis
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1023 of file apalike.bst
+Name 1 in "Lior Shamir, and Chibuke Samuel Eze" has a comma at the end for entry shamir
+while executing---line 1023 of file apalike.bst
+Name 1 in "Lior Shamir, and Chibuke Samuel Eze" has a comma at the end for entry shamir
+while executing---line 1023 of file apalike.bst
+Name 1 in "Abeer Alhuzali, Ahad Alloqmani, Manar Aljabri, and Fatemah Alharbi" has a comma at the end for entry alhuzali
+while executing---line 1098 of file apalike.bst
+Name 1 in "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" has a comma at the end for entry sakkis
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Georgios Sakkis, Ion Androutsopoulos, Georgios Paliouras, Vangelis Karkaletsis, Constantine D. Spyropoulos, and Panagiotis Stamatopoulos" for entry sakkis
+while executing---line 1098 of file apalike.bst
+Name 1 in "Lior Shamir, and Chibuke Samuel Eze" has a comma at the end for entry shamir
+while executing---line 1098 of file apalike.bst
+You've used 6 entries,
             1935 wiz_defined-function locations,
-            470 strings with 3660 characters,
-and the built_in function-call counts, 17 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            499 strings with 4468 characters,
+and the built_in function-call counts, 1800 in all, are:
+= -- 178
+> -- 66
+< -- 6
++ -- 22
+- -- 20
+* -- 138
+:= -- 338
+add.period$ -- 14
+call.type$ -- 6
+change.case$ -- 40
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 68
+empty$ -- 117
+format.name$ -- 34
+if$ -- 338
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+missing$ -- 2
+newline$ -- 29
+num.names$ -- 18
+pop$ -- 26
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 40
 quote$ -- 0
-skip$ -- 1
+skip$ -- 59
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 107
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 36
 warning$ -- 0
-while$ -- 0
+while$ -- 14
 width$ -- 0
-write$ -- 2
-(There was 1 error message)
+write$ -- 68
+(There were 15 error messages)

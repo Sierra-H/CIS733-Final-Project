@@ -1,3 +1,33 @@
 \begin{thebibliography}{}
 
+\bibitem[Abeer~Alhuzali and Alharbi, 2025]{alhuzali}
+Abeer~Alhuzali, Ahad~Alloqmani, M.~A. and Alharbi, F. (2025).
+\newblock In-depth analysis of phishing email detection: Evaluating the
+  performance of machine learning and deep learning models across multiple
+  datasets.
+\newblock {\em Applied Sciences}, 15(6):3396.
+
+\bibitem[Alkhodhairy and Saleem, 2025]{alkhodhairy}
+Alkhodhairy, G. and Saleem, K. (2025).
+\newblock Machine learning algorithm for detecting suspicious email messages
+  using natural language processing nlp.
+\newblock {\em Alexandria Engineering Journal}, 128:153--165.
+
+\bibitem[Bhakta, 2025]{bhakta}
+Bhakta, S.~S. (2025).
+\newblock Understanding one-class support vector machines.
+
+\bibitem[Cohen, 2009]{cohen}
+Cohen, W.~W. (2009).
+\newblock Enron email dataset.
+
+\bibitem[Georgios~Sakkis and Stamatopoulos, 2002]{sakkis}
+Georgios~Sakkis, Ion~Androutsopoulos, G. P. V. K. C. D.~S. and Stamatopoulos,
+  P. (2002).
+\newblock Ling-spam dataset dataset.
+
+\bibitem[Shamir and Eze, 2024]{shamir}
+Shamir, L. and Eze, C.~S. (2024).
+\newblock A dataset of ai-generated phishing email.
+
 \end{thebibliography}
